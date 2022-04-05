@@ -11,4 +11,3 @@ python-dateutil    2.8.2
 
 1. ```docker build -t factorial digits .```
 2. ```docker run --rm factorial digits 10```
-
